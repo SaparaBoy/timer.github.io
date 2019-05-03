@@ -77,13 +77,14 @@ h3 {
   color: rgb(0, 247, 255);
   font-size: 1em;
   position: absolute;
-  top: 43%;
+  top: 42.5%;
   left: 50%;
   transform: translateX(-50%);
   white-space: nowrap;
   z-index: 2;
   text-align: center;
   letter-spacing: 1px;
+  margin-top:10px;
 }
 h1:nth-child(2) {
   top: 65%;
