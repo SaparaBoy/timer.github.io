@@ -73,7 +73,7 @@ $(function() {
           s = 60;
         } else if (m == 0 && h != 0) {
           h = h - 1;
-          m = 60;
+          m = 59;
         } else if (s == 1 && m == 0 && h == 0) {
           //end of timer
           mm.hide();
