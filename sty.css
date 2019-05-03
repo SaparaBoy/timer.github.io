@@ -73,17 +73,10 @@ h2 {
   margin-top: 110px;
   letter-spacing: 0px;
 }
-screen and (max-width:700px)
-{
-  h3{
-  top:45%;}
-}
 h3 {
   color: rgb(0, 247, 255);
   font-size: 1em;
-  position: absolute;
-  top: 39%;
-  left: 50%;
+  position: relative;
   transform: translateX(-50%);
   white-space: nowrap;
   z-index: 2;
