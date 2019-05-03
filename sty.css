@@ -76,7 +76,8 @@ h2 {
 h3 {
   color: rgb(0, 247, 255);
   font-size: 1em;
-  position: relative;
+  position: absolute;
+  top:42.5%;
   left:50%;
   transform: translateX(-50%);
   white-space: nowrap;
